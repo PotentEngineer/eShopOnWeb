@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 37775116-dd4f-4340-ad4b-8105aa562943
-  WEBAPP-NAME: az400-webapp-SecretLab
+  WEBAPP-NAME: az400-webapp-demo
 
 
 jobs:
